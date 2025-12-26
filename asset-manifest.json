@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ranavarsha/smart-blog.git/static/css/main.1b01f5aa.css",
-    "main.js": "/ranavarsha/smart-blog.git/static/js/main.2eb80096.js",
+    "main.js": "/ranavarsha/smart-blog.git/static/js/main.c954e8cc.js",
     "static/js/453.20359781.chunk.js": "/ranavarsha/smart-blog.git/static/js/453.20359781.chunk.js",
     "index.html": "/ranavarsha/smart-blog.git/index.html",
     "main.1b01f5aa.css.map": "/ranavarsha/smart-blog.git/static/css/main.1b01f5aa.css.map",
-    "main.2eb80096.js.map": "/ranavarsha/smart-blog.git/static/js/main.2eb80096.js.map",
+    "main.c954e8cc.js.map": "/ranavarsha/smart-blog.git/static/js/main.c954e8cc.js.map",
     "453.20359781.chunk.js.map": "/ranavarsha/smart-blog.git/static/js/453.20359781.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b01f5aa.css",
-    "static/js/main.2eb80096.js"
+    "static/js/main.c954e8cc.js"
   ]
 }
